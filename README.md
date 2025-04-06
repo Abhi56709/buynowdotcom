@@ -5,6 +5,7 @@
 ---
 
 ## 📌 Project Highlights
+![fr](https://github.com/user-attachments/assets/cc84a61a-1234-4b50-a096-0b5a5d74f70e)
 
 - 🎯 Real-world e-commerce platform with focus on core features.
 - 🔐 Secure login & registration system for both customers and admins.
@@ -12,6 +13,7 @@
 - 🧑‍💼 Admin dashboard for managing inventory, users, and orders.
 - 🧾 Integration of MySQL database for persistent data storage.
 - 🎨 Clean, responsive UI using Bootstrap for seamless user experience.
+![prm](https://github.com/user-attachments/assets/66ff32b7-c334-4de5-a2a0-7a65ca493e0b)
 
 ---
 
@@ -27,16 +29,19 @@
 - **Java**
 - **Spring Boot** (depending on your setup)
 -  Hibernate** – for database connectivity and ORM (Object-Relational Mapping)
+![pr1](https://github.com/user-attachments/assets/06226e06-ab52-45cd-a68c-034c50597a6d)
 
 ### Database
 - **MySQL** – used for data persistence (users, products, orders, etc.)
 - **JDBC** (Java Database Connectivity) – for database interaction
+![cr](https://github.com/user-attachments/assets/bb247810-fd1b-4bd7-888a-fb943d735de2)
 
 ### Tools & Environment
 - **Apache Tomcat** – web server to deploy the application
 - * IntelliJ IDEA** – IDE for Java development
 - **Git & GitHub** – for version control and collaboration
 - **Postman** – to test and verify APIs
+![py](https://github.com/user-attachments/assets/9a6d300f-79c6-41df-93e4-44bca24c584b)
 
 ---
 
@@ -68,16 +73,8 @@ Before you can run the project locally, you’ll need the following:
    ```bash
    git clone https://github.com/Abhi56709/buynowdotcom.git
    cd buynowdotcom
-   ![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/3d8f305d-58d9-4ac4-b1b0-120753ffdded)
-![977f66f8-5c8c-422f-a5b2-af0f5c36cd63](https://github.com/user-attachments/assets/54a16c27-c3f8-41b4-8e94-a532dcc02f10)
-![b4265156-311c-43b2-9a81-dc92ab68be61](https://github.com/user-attachments/assets/662650ef-0e32-47d5-88e1-08c9bfb58e7f)
-![17998ae7-1b4c-4ea5-9528-65f12a9be1d7](https://github.com/user-attachments/assets/aaa15483-c89c-4757-b4b6-d53ca54bb863)
-![02cb129e-9e3c-4e17-8612-12be3794fd60 - Copy](https://github.com/user-attachments/assets/42bdc0f7-1ef5-46e0-8961-e5fff0e1e2d9)
 
-![b4265156-311c-43b2-9a81-dc92ab68be61 - Copy](https://github.com/user-attachments/assets/7ee1a9f4-63ab-417b-a438-24af8a14fc56)
-![4a613b78-020a-4d41-b15b-d52106bca99d](https://github.com/user-attachments/assets/fc697764-9f03-4182-99a5-0ee7becddf9c)
-
-
+![lgn](https://github.com/user-attachments/assets/2d3f28a7-ba25-41b4-9f00-ffa625d123d6)
 
 
 
