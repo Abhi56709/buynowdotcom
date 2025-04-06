@@ -73,7 +73,11 @@ Before you can run the project locally, you’ll need the following:
 ![b4265156-311c-43b2-9a81-dc92ab68be61](https://github.com/user-attachments/assets/662650ef-0e32-47d5-88e1-08c9bfb58e7f)
 ![17998ae7-1b4c-4ea5-9528-65f12a9be1d7](https://github.com/user-attachments/assets/aaa15483-c89c-4757-b4b6-d53ca54bb863)
 ![02cb129e-9e3c-4e17-8612-12be3794fd60 - Copy](https://github.com/user-attachments/assets/42bdc0f7-1ef5-46e0-8961-e5fff0e1e2d9)
-![977f66f8-5c8c-422f-a5b2-af0f5c36cd63 - Copy](https://github.com/user-attachments/assets/44a0661a-190c-46ae-9986-81b60aec3baf)
+
+![b4265156-311c-43b2-9a81-dc92ab68be61 - Copy](https://github.com/user-attachments/assets/7ee1a9f4-63ab-417b-a438-24af8a14fc56)
+![4a613b78-020a-4d41-b15b-d52106bca99d](https://github.com/user-attachments/assets/fc697764-9f03-4182-99a5-0ee7becddf9c)
+![faa4c678-b7a7-4fae-b9c0-4e307b515f40](https://github.com/user-attachments/assets/ee8ea624-b06a-40fb-9368-b8ba09635dee)
+
 
 
 
