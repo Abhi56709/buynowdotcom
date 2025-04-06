@@ -76,7 +76,7 @@ Before you can run the project locally, you’ll need the following:
 
 ![b4265156-311c-43b2-9a81-dc92ab68be61 - Copy](https://github.com/user-attachments/assets/7ee1a9f4-63ab-417b-a438-24af8a14fc56)
 ![4a613b78-020a-4d41-b15b-d52106bca99d](https://github.com/user-attachments/assets/fc697764-9f03-4182-99a5-0ee7becddf9c)
-![faa4c678-b7a7-4fae-b9c0-4e307b515f40](https://github.com/user-attachments/assets/ee8ea624-b06a-40fb-9368-b8ba09635dee)
+
 
 
 
