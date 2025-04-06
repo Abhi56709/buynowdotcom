@@ -25,8 +25,8 @@
 
 ### Backend
 - **Java**
-- **Spring Boot** / **Servlets & JSP** (depending on your setup)
-- **JDBC / Hibernate** – for database connectivity and ORM (Object-Relational Mapping)
+- **Spring Boot** (depending on your setup)
+-  Hibernate** – for database connectivity and ORM (Object-Relational Mapping)
 
 ### Database
 - **MySQL** – used for data persistence (users, products, orders, etc.)
@@ -34,7 +34,7 @@
 
 ### Tools & Environment
 - **Apache Tomcat** – web server to deploy the application
-- **Eclipse / IntelliJ IDEA** – IDE for Java development
+- * IntelliJ IDEA** – IDE for Java development
 - **Git & GitHub** – for version control and collaboration
 - **Postman** – to test and verify APIs
 
