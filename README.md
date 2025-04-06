@@ -49,7 +49,8 @@ buynowdotcom/ ├── src/ │ ├── com/buynowdotcom/controller/ # All co
 
 ## 🚀 How to Run the Project
 
-### Prerequisites
+### Prerequisites![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/8c2637af-1c59-4f78-8ec9-dde9b53f5124)
+
 
 Before you can run the project locally, you’ll need the following:
 
@@ -67,3 +68,5 @@ Before you can run the project locally, you’ll need the following:
    ```bash
    git clone https://github.com/Abhi56709/buynowdotcom.git
    cd buynowdotcom
+   ![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/53332217-4d53-4c9a-b7e7-fbd6cdde62e7)
+
