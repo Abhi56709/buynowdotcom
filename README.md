@@ -49,7 +49,7 @@ buynowdotcom/ ├── src/ │ ├── com/buynowdotcom/controller/ # All co
 
 ## 🚀 How to Run the Project
 
-### Prerequisites![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/8c2637af-1c59-4f78-8ec9-dde9b53f5124)
+
 
 
 Before you can run the project locally, you’ll need the following:
@@ -68,5 +68,15 @@ Before you can run the project locally, you’ll need the following:
    ```bash
    git clone https://github.com/Abhi56709/buynowdotcom.git
    cd buynowdotcom
-   ![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/53332217-4d53-4c9a-b7e7-fbd6cdde62e7)
+   ![02cb129e-9e3c-4e17-8612-12be3794fd60](https://github.com/user-attachments/assets/3d8f305d-58d9-4ac4-b1b0-120753ffdded)
+![977f66f8-5c8c-422f-a5b2-af0f5c36cd63](https://github.com/user-attachments/assets/54a16c27-c3f8-41b4-8e94-a532dcc02f10)
+![b4265156-311c-43b2-9a81-dc92ab68be61](https://github.com/user-attachments/assets/662650ef-0e32-47d5-88e1-08c9bfb58e7f)
+![17998ae7-1b4c-4ea5-9528-65f12a9be1d7](https://github.com/user-attachments/assets/aaa15483-c89c-4757-b4b6-d53ca54bb863)
+![02cb129e-9e3c-4e17-8612-12be3794fd60 - Copy](https://github.com/user-attachments/assets/42bdc0f7-1ef5-46e0-8961-e5fff0e1e2d9)
+![977f66f8-5c8c-422f-a5b2-af0f5c36cd63 - Copy](https://github.com/user-attachments/assets/44a0661a-190c-46ae-9986-81b60aec3baf)
+
+
+
+
+
 
